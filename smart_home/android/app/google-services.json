@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "968414285474",
+    "firebase_url": "https://arduino-86b0b-default-rtdb.firebaseio.com",
+    "project_id": "arduino-86b0b",
+    "storage_bucket": "arduino-86b0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968414285474:android:ca41196e519e5fd15e51fb",
+        "android_client_info": {
+          "package_name": "com.example.smart_home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968414285474-06goriub8mfsv2rirhtj2hrbeu9cgm9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDB1jAaQTOzzRS3guYAP5p33DZ07zxFCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968414285474-06goriub8mfsv2rirhtj2hrbeu9cgm9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
